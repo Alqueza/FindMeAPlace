@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_food"
+            android:title="Food" />
+        <item
+            android:id="@+id/nav_sleep"
+            android:icon="@drawable/ic_sleep"
+            android:title="Lodging" />
+        <item
+            android:id="@+id/nav_petrol"
+            android:icon="@drawable/ic_petrol"
+            android:title="Petrol" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_map"
+            android:title="Map" />
+    </group>
+
+</menu>
